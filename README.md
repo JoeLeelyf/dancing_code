@@ -17,9 +17,9 @@ The repo is aimed to both document your own learning process and share your know
 - **Main Branch**: A demo of the directory structure
 
   ```txt
-  . 											# root dir
-  ├── AI									# First-level dir, different areas of CS
-  │   ├── CV							# Sub-topic of this area
+  . # root dir
+  ├── AI	# First-level dir, different areas of CS
+  │   ├── CV	# Sub-topic of this area
   │   ├── MultiModal
   │   └── NLP
   ├── Back End
