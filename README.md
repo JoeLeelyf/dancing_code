@@ -17,25 +17,39 @@ The repo is aimed to both document your own learning process and share your know
 - **Main Branch**: A demo of the directory structure
 
   ```txt
-  . # root dir
+  .	# root dir
   ├── AI	# First-level dir, different areas of CS
   │   ├── CV	# Sub-topic of this area
+  │   │   └── README.md	# Demonstrate why you create this sub-topic
   │   ├── MultiModal
+  │   │   └── README.md
   │   └── NLP
+  │       └── README.md
   ├── Back End
+  │   └── Django
+  │       └── README.md
   ├── Front End
+  │   ├── CSS
+  │   │   └── README.md
+  │   ├── HTML
+  │   │   └── README.md
+  │   └── Javascript
+  │       └── README.md
   ├── Others
   │   ├── Laguage Learning
   │   │   ├── C++
+  │   │   │   └── README.md
   │   │   ├── Java
+  │   │   │   └── README.md
   │   │   └── Python
+  │   │       └── README.md
   │   └── Useful Tools
   │       ├── CLI
+  │       │   └── README.md
   │       └── Git
-  └── README.md
+  │           └── README.md
+  └── README.md  
   ```
-
-  
 
 - **Your Own Branch**: Create your own branch, where you can DIY your directory  structure and write down anything about your learning! But to conveniently merge your branch to the main branch, you're suggested to alignment with the main branch's structure mentioned above.
 
